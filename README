@@ -1,0 +1,15 @@
+# Search Engine
+
+
+1.Given a query consisting of a single word w, display the 3 most similar words in the search corpus according to some similarity metric of your choosing. You should return results even if w is not in the corpus.
+
+[IMAGE DEMO](https://drive.google.com/drive/u/0/folders/1TfFcjqOKCw1ik5YVxKRrukQOKt4RB_20)
+
+2.Given a single word x, update the search corpus with x. The new word x should immediately be
+queryable.
+
+[IMAGE DEMO](https://drive.google.com/drive/u/0/folders/1MZpPEGGdCG4797SJeptZ9O0o0Z4F2Z5i)
+
+3.Given a single word y, remove the most similar word to y in the corpus from further search results.
+
+[IMAGE DEMO](https://drive.google.com/drive/u/0/folders/1TffyokBlI0GhAT-1Ub9rwIDJpf7GJUGt)
